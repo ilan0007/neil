@@ -1,7 +1,4 @@
-#image{
-    max-width: 100%;
-    height: auto;
-  }
+
 h1{text-align: center;}
 h2{text-align: center;}
 #img-div{text-align: center;}
@@ -10,3 +7,7 @@ p{margin-left: 10%;
 #list{margin-left: 10%;
     margin-right: 10%;}
 figcaption{font-size: 15px;}
+image{
+  max-width: 100%;
+  height: auto;
+}
