@@ -7,7 +7,7 @@ p{margin-left: 10%;
 #list{margin-left: 10%;
     margin-right: 10%;}
 figcaption{font-size: 15px;}
-image{
+#image{
   max-width: 100%;
   height: auto;
 }
